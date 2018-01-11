@@ -16,4 +16,4 @@ npm run build
 ```
 
 ## Author
-[Kuriakin Zeng](http://kuriakinzeng.com)
+[Ilham]
