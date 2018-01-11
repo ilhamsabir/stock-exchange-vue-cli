@@ -1,0 +1,35 @@
+Tujuan: Meningkatkan aplikasi simulasi saham (https://github.com/kuriakinzeng/vuex-stock) dengan menambahkan kotak
+sistem dan fitur drag-and-drop untuk membeli / menjual saham.
+
+Cerita Pengguna:
+# 1. Sebagai pengguna, saya dapat melihat Portofolio atau Saham masing-masing dengan sendirinya
+# 2. Sebagai pengguna, saya bisa membuka grid baru sehingga saya bisa melihat Portofolio dan Saham bersama (dashboard)
+# 3. Sebagai pengguna, saya bisa melihat daftar saham (dan harganya) yang saya bisa beli di bawah Stocks
+# 4. Sebagai pengguna, saya bisa melihat daftar saham yang saya miliki dan nilainya (ini adalah portofolio)
+5. Sebagai pengguna, saya bisa menarik saham dari jaringan Saham ke jaringan Portofolio untuk membeli Stok
+6. Sebagai pengguna, saya dapat menarik saham dari jaringan Portofolio ke jaringan Saham untuk dijual Stok
+7. Sebagai pengguna, saya bisa mensimulasikan pergerakan harga saham dan melihat nilai portofolio baru saya Dengan mengklik End Day
+# 8. Sebagai pengguna, saya dapat menyimpan portofolio saya dan memuatnya kembali setelah refresh
+9. Sebagai pengguna, saya bisa melihat tweet tentang setiap saham di daftar saham I Bisa beli
+
+Bonus: Terapkan fitur tambahan yang akan membuat UX lebih baik. Marilah kita tahu apa itu meskipun!
+
+Aturan:
+1. Anda harus menggunakan Vue.js untuk menyelesaikan tugas
+2. Anda dapat menggunakan perpustakaan di luar sana kecuali sebuah "perpustakaan" yang secara langsung mencapai Tujuan diatas
+3. Anda bisa bertanya kepada kami dan meminta bantuan jika Anda terjebak
+4. Pekerjaan harus menjadi milik Anda sendiri, bukan bantuan dari luar
+ 
+Hasil yang memuaskan
+1. Spesifikasi, dalam format apa pun yang Anda inginkan, merinci arsitektur dan penerapan aplikasi
+2. Kode yang mengimplementasikan aplikasi
+3. Dokumentasi, dalam format apapun yang Anda inginkan, memberikan rincian yang akan membantu pengembang lain melanjutkan
+mengerjakannya
+Metrik:
+1. Kode kebersihan
+2. Kelengkapan fitur
+3. Perhatian pada detil
+4. Pengalaman pengguna
+5. Dokumentasi
+ 
+Tenggat: Tidak ada tenggat waktu.
